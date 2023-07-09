@@ -1,1 +1,1 @@
-forking_lab_activity
+forking-lab-activity
